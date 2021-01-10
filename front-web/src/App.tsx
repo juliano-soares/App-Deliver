@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import Footer from './Footer';
 import Home from './Home';
 import NavBar from './NavBar';
 
@@ -9,7 +8,6 @@ function App() {
     <>
       <NavBar />
       <Home />
-      <Footer />
     </>
   );
 }
